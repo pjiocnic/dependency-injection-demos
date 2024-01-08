@@ -1,0 +1,1 @@
+https://mkyong.com/webservices/jax-rs/jersey-and-hk2-dependency-injection-auto-scanning/

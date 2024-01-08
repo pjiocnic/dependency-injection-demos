@@ -1,0 +1,1 @@
+[HOW TO USE HK2 INJECTION IN A STANDALONE JAVA APPLICATION](https://dkbalachandar.wordpress.com/2017/11/09/how-to-use-hk2-injection-in-standalone-java-application/)
